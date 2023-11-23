@@ -1,6 +1,6 @@
 #!/bin/bash
-mkdir /home/abdelrahman/myDirectory
-mkdir /home/abdelrahman/myDirectory/secondDirectory
-touch /home/abdelrahman/myDirectory/secondDirectory/myNotePaper
-cp /home/abdelrahman/myDirectory/secondDirectory/myNotePaper /home/abdelrahman/myDirectory/myNotePaper
-mv /home/abdelrahman/myDirectory/myNotePaper /home/abdelrahman/myDirectory/myOldNotePaper
+mkdir ~/myDirectory
+mkdir ~/myDirectory/secondDirectory
+touch ~/myDirectory/secondDirectory/myNotePaper
+cp ~/myDirectory/secondDirectory/myNotePaper ~/myDirectory/myNotePaper
+mv ~/myDirectory/myNotePaper ~/myDirectory/myOldNotePaper
