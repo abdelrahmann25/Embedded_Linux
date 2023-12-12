@@ -1,0 +1,4 @@
+Q1: How a binary can be excuated from any location?
+A1: Beacause of the system use the PATH envirnment variable, which is a 
+    global variable that a list of directories that the shell searches through when
+    trying to find a command to execute.
