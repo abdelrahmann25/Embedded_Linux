@@ -5,7 +5,6 @@ following commands:
 
 ldd command:
 calcDynamic:
-
 ![image-20231222004812349](/home/abdelrahman/snap/typora/86/.config/Typora/typora-user-images/image-20231222004812349.png)
 
 calcStatic:
@@ -15,7 +14,6 @@ calcStatic:
 
 file command:
 calcDynamic:
-
 ![image-20231222005037493](/home/abdelrahman/snap/typora/86/.config/Typora/typora-user-images/image-20231222005037493.png)
 
 calcStatic:
