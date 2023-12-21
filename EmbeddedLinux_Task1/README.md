@@ -5,7 +5,7 @@ following commands:
 
 ldd command:
 calcDynamic:
-![image-20231222004812349](EmbeddedLinux_Task1/images/Screenshot from 2023-12-22 00-48-09.png)
+![image-20231222004812349](https://github.com/abdelrahmann25/Embedded_Linux/blob/ada906f273dafcc0c3f0b24e74ed29fe328e8dba/EmbeddedLinux_Task1/images/Screenshot%20from%202023-12-22%2000-48-09.png)
 
 calcStatic:
 ![image-20231222004914547](/home/abdelrahman/snap/typora/86/.config/Typora/typora-user-images/image-20231222004914547.png)
